@@ -17,12 +17,12 @@ interface Project {
 }
 
 const projects: Project[] = [
-  { id: 1, title: "Suburban Estate", category: "residential", location: "Lake Oswego, OR", description: "Full asphalt shingle replacement on a 4,200 sq ft home. Premium architectural shingles with enhanced ice barrier.", image: "/images/projects/project-1.svg" },
-  { id: 2, title: "Downtown Tower", category: "commercial", location: "Portland, OR", description: "TPO roofing system for a 12-story commercial building. Energy-efficient white membrane to reduce cooling costs.", image: "/images/projects/project-2.svg" },
-  { id: 3, title: "Heritage Chapel", category: "specialty", location: "Salem, OR", description: "Slate roof restoration on a historic 1890s chapel. Sourced matching slate and preserved original architecture.", image: "/images/projects/project-3.svg" },
-  { id: 4, title: "Lakeside Villa", category: "residential", location: "Bend, OR", description: "Standing seam metal roof installation with snow guards. Designed for mountain climate durability.", image: "/images/projects/project-4.svg" },
-  { id: 5, title: "Hilltop Mansion", category: "residential", location: "West Linn, OR", description: "Clay tile roof replacement on a Mediterranean-style estate. Custom color matching with imported tiles.", image: "/images/projects/project-5.svg" },
-  { id: 6, title: "Modern Complex", category: "commercial", location: "Beaverton, OR", description: "Built-up roofing system for a 6-unit commercial complex. Complete tear-off and new installation in 10 days.", image: "/images/projects/project-6.svg" },
+  { id: 1, title: "Suburban Estate", category: "residential", location: "Lake Oswego, OR", description: "Full asphalt shingle replacement on a 4,200 sq ft home. Premium architectural shingles with enhanced ice barrier.", image: "/images/projects/project-1.jpg" },
+  { id: 2, title: "Downtown Tower", category: "commercial", location: "Portland, OR", description: "TPO roofing system for a 12-story commercial building. Energy-efficient white membrane to reduce cooling costs.", image: "/images/projects/project-2.jpg" },
+  { id: 3, title: "Heritage Chapel", category: "specialty", location: "Salem, OR", description: "Slate roof restoration on a historic 1890s chapel. Sourced matching slate and preserved original architecture.", image: "/images/projects/project-3.jpg" },
+  { id: 4, title: "Lakeside Villa", category: "residential", location: "Bend, OR", description: "Standing seam metal roof installation with snow guards. Designed for mountain climate durability.", image: "/images/projects/project-4.jpg" },
+  { id: 5, title: "Hilltop Mansion", category: "residential", location: "West Linn, OR", description: "Clay tile roof replacement on a Mediterranean-style estate. Custom color matching with imported tiles.", image: "/images/projects/project-5.jpg" },
+  { id: 6, title: "Modern Complex", category: "commercial", location: "Beaverton, OR", description: "Built-up roofing system for a 6-unit commercial complex. Complete tear-off and new installation in 10 days.", image: "/images/projects/project-6.jpg" },
 ];
 
 const categories = [

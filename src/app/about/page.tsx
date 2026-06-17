@@ -12,9 +12,9 @@ export const metadata: Metadata = {
 };
 
 const team = [
-  { name: "James Carter", role: "Founder & CEO", image: "/images/about/team-1.svg", bio: "30+ years in roofing. Started Peak Roofing to bring honest, quality craftsmanship to every home." },
-  { name: "Maria Santos", role: "Operations Manager", image: "/images/about/team-2.svg", bio: "Ensures every project runs smoothly from estimate to final inspection." },
-  { name: "David Kim", role: "Lead Roofer", image: "/images/about/team-3.svg", bio: "Master roofer with 15 years of experience across all roofing systems." },
+  { name: "James Carter", role: "Founder & CEO", image: "/images/about/team-1.jpg", bio: "30+ years in roofing. Started Peak Roofing to bring honest, quality craftsmanship to every home." },
+  { name: "Maria Santos", role: "Operations Manager", image: "/images/about/team-2.jpg", bio: "Ensures every project runs smoothly from estimate to final inspection." },
+  { name: "David Kim", role: "Lead Roofer", image: "/images/about/team-3.jpg", bio: "Master roofer with 15 years of experience across all roofing systems." },
 ];
 
 export default function AboutPage() {
@@ -35,7 +35,7 @@ export default function AboutPage() {
           </div>
 
           <img
-            src="/images/about/about-hero.svg"
+            src="/images/about/about-hero.jpg"
             alt="Peak Roofing team"
             className="w-full rounded-xl mb-12"
           />

@@ -16,37 +16,37 @@ const services = [
     slug: "residential-roofing",
     title: "Residential Roofing",
     desc: "Expert installation and maintenance for your home. Asphalt shingles, metal roofing, clay tiles, and slate — we work with all materials to match your home's style and budget.",
-    image: "/images/services/residential-roofing.svg",
+    image: "/images/services/residential-roofing.jpg",
   },
   {
     slug: "commercial-roofing",
     title: "Commercial Roofing",
     desc: "Durable flat and low-slope roofing systems for businesses, warehouses, and office buildings. TPO, EPDM, PVC, and built-up roofing solutions.",
-    image: "/images/services/commercial-roofing.svg",
+    image: "/images/services/commercial-roofing.jpg",
   },
   {
     slug: "roof-repair",
     title: "Roof Repair",
     desc: "Fast, reliable leak detection and repair. From missing shingles to storm damage, we diagnose and fix issues before they become costly problems.",
-    image: "/images/services/roof-repair.svg",
+    image: "/images/services/roof-repair.jpg",
   },
   {
     slug: "roof-replacement",
     title: "Roof Replacement",
     desc: "Complete roof tear-off and replacement using premium materials. We handle permits, disposal, and installation with minimal disruption to your daily life.",
-    image: "/images/services/roof-replacement.svg",
+    image: "/images/services/roof-replacement.jpg",
   },
   {
     slug: "emergency-services",
     title: "Emergency Services",
     desc: "24/7 emergency response for storm damage, fallen trees, and sudden leaks. Our rapid-response team is always on call to protect your property.",
-    image: "/images/services/emergency-services.svg",
+    image: "/images/services/emergency-services.jpg",
   },
   {
     slug: "gutter-services",
     title: "Gutter Services",
     desc: "Seamless gutter installation, cleaning, and repair. Protect your foundation and landscaping with a properly functioning drainage system.",
-    image: "/images/services/gutter-services.svg",
+    image: "/images/services/gutter-services.jpg",
   },
 ];
 

@@ -16,19 +16,19 @@ const services = [
     slug: "residential-roofing",
     title: "Residential Roofing",
     desc: "Expert installation and maintenance for your home. Asphalt shingles, metal, tile, and more.",
-    image: "/images/services/residential-roofing.svg",
+    image: "/images/services/residential-roofing.jpg",
   },
   {
     slug: "commercial-roofing",
     title: "Commercial Roofing",
     desc: "Durable flat and low-slope roofing systems for businesses, warehouses, and offices.",
-    image: "/images/services/commercial-roofing.svg",
+    image: "/images/services/commercial-roofing.jpg",
   },
   {
     slug: "roof-repair",
     title: "Roof Repair",
     desc: "Fast, reliable leak detection and repair. Stop damage before it spreads.",
-    image: "/images/services/roof-repair.svg",
+    image: "/images/services/roof-repair.jpg",
   },
 ];
 
@@ -45,7 +45,7 @@ export default function HomePage() {
       <section className="relative overflow-hidden">
         <div className="absolute inset-0 -z-10">
           <img
-            src="/images/hero/hero-bg.svg"
+            src="/images/hero/hero-bg.jpg"
             alt=""
             className="h-full w-full object-cover"
           />

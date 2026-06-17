@@ -18,7 +18,7 @@ const services: Record<string, ServiceData> = {
   "residential-roofing": {
     title: "Residential Roofing",
     description: "Your home deserves the best protection. We specialize in residential roofing installation, repair, and maintenance using top-quality materials including asphalt shingles, metal roofing, clay tiles, and slate. Every project is completed with meticulous attention to detail and respect for your property.",
-    image: "/images/services/residential-roofing.svg",
+    image: "/images/services/residential-roofing.jpg",
     features: [
       "Asphalt shingle installation and replacement",
       "Metal roofing — standing seam, corrugated, and stone-coated steel",
@@ -36,7 +36,7 @@ const services: Record<string, ServiceData> = {
   "commercial-roofing": {
     title: "Commercial Roofing",
     description: "We provide comprehensive commercial roofing solutions for businesses of all sizes. From retail storefronts to industrial warehouses, our team has the expertise to handle complex commercial roofing systems including TPO, EPDM, PVC, and built-up roofing.",
-    image: "/images/services/commercial-roofing.svg",
+    image: "/images/services/commercial-roofing.jpg",
     features: [
       "TPO (Thermoplastic Polyolefin) roofing systems",
       "EPDM (Ethylene Propylene Diene Monomer) rubber roofing",
@@ -54,7 +54,7 @@ const services: Record<string, ServiceData> = {
   "roof-repair": {
     title: "Roof Repair",
     description: "Don't let a small leak become a big problem. Our repair specialists quickly diagnose and fix roofing issues of all types. From missing shingles to storm damage, we provide fast, reliable repairs that extend the life of your roof.",
-    image: "/images/services/roof-repair.svg",
+    image: "/images/services/roof-repair.jpg",
     features: [
       "Leak detection and repair",
       "Missing or damaged shingle replacement",
@@ -72,7 +72,7 @@ const services: Record<string, ServiceData> = {
   "roof-replacement": {
     title: "Roof Replacement",
     description: "When repairs aren't enough, a full roof replacement restores your home's protection and curb appeal. We handle everything from tear-off to final cleanup, using premium materials and proven techniques for a roof that lasts decades.",
-    image: "/images/services/roof-replacement.svg",
+    image: "/images/services/roof-replacement.jpg",
     features: [
       "Complete tear-off and disposal of old roofing",
       "Deck inspection and repair",
@@ -90,7 +90,7 @@ const services: Record<string, ServiceData> = {
   "emergency-services": {
     title: "Emergency Services",
     description: "Roofing emergencies don't wait for business hours. Our 24/7 emergency response team is ready to protect your home or business from further damage. We provide rapid tarping, temporary repairs, and permanent solutions.",
-    image: "/images/services/emergency-services.svg",
+    image: "/images/services/emergency-services.jpg",
     features: [
       "24/7 emergency response — nights, weekends, and holidays",
       "Storm damage emergency tarping",
@@ -108,7 +108,7 @@ const services: Record<string, ServiceData> = {
   "gutter-services": {
     title: "Gutter Services",
     description: "Properly functioning gutters are essential for protecting your foundation, landscaping, and siding. We install, repair, and maintain seamless gutter systems that keep water flowing away from your property.",
-    image: "/images/services/gutter-services.svg",
+    image: "/images/services/gutter-services.jpg",
     features: [
       "Seamless aluminum gutter installation",
       "Gutter cleaning and maintenance",
